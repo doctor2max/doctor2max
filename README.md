@@ -1,38 +1,71 @@
-# Hi there, I'm Mousa Awanah 👋 🇵🇸
+👋 Hi, I’m Mousa Awanah 🇵🇸
 
-### 🤖 Software Engineer & AI Developer
-I am a passionate Developer from **Palestine**, dedicated to pushing the boundaries of Artificial Intelligence. My work focuses on building intelligent systems and training highly skilled AI agents.
+🤖 Software Engineer • Systems Architect • AI Developer
 
----
+Building intelligent systems since 1995 — combining deep computing experience with modern AI engineering to create scalable, production-ready solutions.
 
-### 🚀 What I'm Working On
-- 🔭 **Current Project:** Developing a specialized **AI Education Database** to streamline the learning process for machine learning models.
-- 🧠 **Focus Areas:** Training advanced **AI Agents** and mastering **Computer Vision** techniques.
-- 🌱 I’m constantly exploring new architectures in Deep Learning and Neural Networks.
+⸻
 
----
+🧠 About Me
 
-### 🛠️ Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI & ML** | Python, TensorFlow, PyTorch, OpenCV |
-| **Core Dev** | C++, Git, SQL |
-| **Specialties** | Computer Vision, AI Agent Training, Data Engineering |
+I design software as structured systems, not isolated scripts.
+My focus is on building intelligent applications that are maintainable, measurable, and engineered with clarity.
 
----
+Clean architecture. Clear logic. Real-world impact.
 
-### 📈 GitHub Stats
-![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=doctor2max&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctor2max&layout=compact&theme=radical)
+⸻
 
----
+🚀 What I’m Currently Working On
+	•	🔬 Developing AI-powered systems with practical deployment workflows
+	•	🧩 Designing structured machine learning training pipelines
+	•	🧠 Exploring neural networks from first principles
+	•	⚙️ Building scalable backend APIs using modern architectural patterns
 
-### 📬 Connect with me
-- 📧 **Email:** [iknow.max1@gmail.com](mailto:iknow.max1@gmail.com)
-- 💼 **LinkedIn:** [Coming Soon](#) 
+⸻
 
----
+🛠 Tech Stack
+
+💻 Core Engineering
+
+Python • C++ • SQL • Git • Linux
+
+🌐 Backend & Architecture
+
+FastAPI • REST APIs • Clean Architecture • System Design
+
+🤖 AI & Data
+
+Machine Learning • Computer Vision • Model Training • Data Processing
+
+⸻
+
+📌 Selected Work Highlights
+	•	🍎 Image classification systems using transfer learning
+	•	🧠 Neural network implementations from scratch
+	•	🚀 Production-style FastAPI backend templates
+	•	📊 Data-driven admin dashboards with cloud integration
+
+⸻
+
+📈 GitHub Analytics
 
 <p align="center">
-  <i>"Building the future, one neuron at a time."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=doctor2max&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctor2max&layout=compact&theme=radical" />
+</p>
+
+
+
+⸻
+
+📬 Connect With Me
+
+📧 iknow.max1@gmail.com
+
+⸻
+
+
+<p align="center">
+  <i>“Engineering is not about writing code. It’s about building systems that endure.”</i>
 </p>
