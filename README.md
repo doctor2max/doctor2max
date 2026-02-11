@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mousa Awanah 🇵🇸  
+# 👋 Hi, I'm Mousa Awanah 
 ### 🤖 Software Engineer • Systems Architect • AI Developer  
 
 Building intelligent systems since **1995** — combining deep computing experience with modern AI engineering to create scalable, production-ready solutions.
@@ -47,12 +47,11 @@ My focus is on building intelligent applications that are maintainable, measurab
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doctor2max&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctor2max&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/doctor2max?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&config.timezone=Asia%2FJerusalem" alt="Metrics" width="100%">
+</div>
 
+ה
 ---
 
 ## 📬 Connect With Me
