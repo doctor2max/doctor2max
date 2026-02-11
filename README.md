@@ -47,11 +47,11 @@ My focus is on building intelligent applications that are maintainable, measurab
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/doctor2max?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&config.timezone=Asia%2FJerusalem" alt="Metrics" width="100%">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doctor2max&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-ה
+
 ---
 
 ## 📬 Connect With Me
